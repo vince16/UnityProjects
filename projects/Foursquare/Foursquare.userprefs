@@ -1,0 +1,47 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/App/UI/Venue/VenueComponent.cs">
+    <Files>
+      <File FileName="Assets/App/Service/FoursquareService.cs" Line="27" Column="29" />
+      <File FileName="Assets/App/User.cs" Line="18" Column="31" />
+      <File FileName="Assets/App/Service/LocationService.cs" Line="40" Column="60" />
+      <File FileName="Assets/App/Service/Explore/Explore.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Response.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Group.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Item.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Venue.cs" Line="9" Column="19" />
+      <File FileName="../../../../../Applications/Unity/MonoDevelop.app/Contents/Frameworks/Mono.framework/Versions/Current/lib/mono/4.5/Microsoft.Common.targets" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Meta.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Ne.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Sw.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/SuggestedBounds.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Item2.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Reasons.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Contact.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Location.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Icon.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Category.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Stats.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Price.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/BeenHere.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Hours.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Photo.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/User.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Item3.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Group2.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Photos.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/HereNow.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Todo.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/User2.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/Tip.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/Service/Explore/RootObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/App/UI/Location/Location.cs" Line="5" Column="1" />
+      <File FileName="Assets/App/UI/Venue/VenueComponent.cs" Line="25" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

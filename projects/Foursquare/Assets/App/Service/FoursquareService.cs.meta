@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbd278cbcb65143cdade23078ea5accb
+timeCreated: 1523439561
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - venuePrefab: {fileID: 1006929787414962, guid: 4a35c4b71562d45aca17e5b7c3cc25e9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
